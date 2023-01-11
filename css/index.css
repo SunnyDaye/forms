@@ -1,0 +1,19 @@
+
+nav {
+    background-color:grey;
+}
+nav a {
+    display: block;
+    max-width: 10%;
+    max-height: 50px;
+    background-color: purple;
+    text-decoration: None;
+    color: white;
+    text-align: center;
+    padding: 17px;
+}
+
+.wrapper {
+    width:30%;
+    margin: 25px auto;
+}
