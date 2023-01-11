@@ -4,7 +4,7 @@ nav {
 }
 nav a {
     display: block;
-    max-width: 10%;
+    max-width: 100px;
     max-height: 50px;
     background-color: purple;
     text-decoration: None;
